@@ -1,6 +1,5 @@
 # Κεντρικο Σύστημα Ηλεκτρονικής Διακίνησης Εγγράφων  (https://support.mindigital-shde.gr/)
 
-This repository contains a PDF document on the topic of Electronic Governance, authored by Alexandros Giankoulis and Ioannis Gatsios. 
 
 ## Περιεχόμενα
 
